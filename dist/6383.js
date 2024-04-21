@@ -1,1 +1,0 @@
-(self.webpackChunkweb3_onboard_with_vanilla_js=self.webpackChunkweb3_onboard_with_vanilla_js||[]).push([[6383],{78982:()=>{},47790:()=>{},77965:()=>{},66089:()=>{},79368:()=>{},64688:()=>{},51069:()=>{},15340:()=>{},79838:()=>{},63779:()=>{},77199:()=>{}}]);
